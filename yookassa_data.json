@@ -1,0 +1,13 @@
+{
+    "auth": {
+        "test": {
+            "shopid": "965894",
+            "secretKey": "test_uxJBXKXZS6R11mJfrCe74XyOTM6cfErgdQ5REMbDvPo"
+        },
+        "live": {
+            "shopid": "634118",
+            "secretKey": "live_WtI5pKFAkYvujteYKWS5aMsZgM4m9aBLCU89oeHpUC0"
+        }
+    },
+    "paymentsURL": "https://api.yookassa.ru/v3/payments"
+}

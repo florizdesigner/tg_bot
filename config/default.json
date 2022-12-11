@@ -1,0 +1,5 @@
+{
+  "port": "80",
+  "url": "https://d74a-95-79-164-238.eu.ngrok.io",
+  "db_url": "mongodb+srv://admin:admin@cluster0.vupwfa0.mongodb.net/?retryWrites=true&w=majority\n"
+}
